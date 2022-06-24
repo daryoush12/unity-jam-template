@@ -2984,7 +2984,7 @@ MonoBehaviour:
         Duration: 1
       Fade:
         AnimationType: 2
-        Enabled: 0
+        Enabled: 1
         From: 0
         To: 0
         By: 0.5
@@ -3142,7 +3142,7 @@ MonoBehaviour:
         Duration: 1
       Fade:
         AnimationType: 1
-        Enabled: 0
+        Enabled: 1
         From: 0
         To: 0
         By: 0.5
